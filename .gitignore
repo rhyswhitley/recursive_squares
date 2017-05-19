@@ -28,4 +28,4 @@
 *.out
 *.app
 
-*.ipynb_checkpoints/*
+prototyping/.ipynb_checkpoints/*
